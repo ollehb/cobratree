@@ -1,0 +1,13 @@
+root
+├─child1
+│   └─subchild
+├─child2
+│   ├─subchild
+│   └─subsibling
+├─child3
+│   └─subchild2
+│      └─subchild3
+│         ├─subchild4
+│         │   └─subchild5
+│         └─subsibling
+└─child4
